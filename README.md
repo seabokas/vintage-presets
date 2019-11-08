@@ -11,3 +11,10 @@
   7. Restart **Lightroom**.
 
 :sunglasses:
+
+## [1.0.0] Initial Release.
+### Added
+- Initial Release.
+
+
+[1.0.0]: https://github.com/stefanbrockhaus/vintage-presets/archive/1.0.zip
